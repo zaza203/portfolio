@@ -1,0 +1,3 @@
+username: einsteinzaza00
+password: Ihimbru.7
+mongodb+srv://einsteinzaza00:Ihimbru.7@cluster0.kvapcwj.mongodb.net/
